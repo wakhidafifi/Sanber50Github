@@ -1,0 +1,14 @@
+{
+  "name": "sanber50github",
+  "version": "1.0.0",
+  "description": "Sanber 50 Bootcamp GIthub\r nama : sanber 50\r kelas SQA Intensive\r Pertemuan Day 13",
+  "main": "filebaru.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.3.2"
+  }
+}
